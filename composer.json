@@ -1,0 +1,31 @@
+{
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "kartik-v/yii2-krajee-base": "@dev",
+        "yiisoft/yii2-bootstrap5": "*",
+        "kartik-v/yii2-icons": "@dev",
+        "yiisoft/yii2-swiftmailer": "~2.1.0",
+        "kartik-v/yii2-mpdf": "dev-master",
+        "kartik-v/yii2-widget-select2": "dev-master",
+        "kartik-v/yii2-export": "dev-master",
+        "kartik-v/yii2-widget-fileinput": "dev-master",
+        "sjaakp/yii2-locator": "*",
+        "sjaakp/yii2-spatial": "*",
+        "kartik-v/yii2-widget-timepicker": "dev-master",
+        "kartik-v/yii2-widget-datetimepicker": "dev-master",
+        "kartik-v/yii2-bootstrap5-dropdown":"@dev",
+        "yiisoft/yii2-imagine": "~2.2.0",
+        "kartik-v/yii2-widget-rating": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "yiisoft/yii2-composer": true
+        }
+    }
+}
